@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) {
-   navigator.serviceWorker.register("/sw.js")
+   navigator.serviceWorker.register("sw.js")
 }
 
 const SPLASH_COLORS = ['darkorange', 'crimson', 'blueviolet', 'yellowgreen', 'coral', 'deepskyblue', 'hotpink', 'royalblue', 'magenta', 'turquoise']
